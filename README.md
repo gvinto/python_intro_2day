@@ -3,8 +3,8 @@
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
 
-## Wing 101 Python IDE (download version specific to your OS)
-https://wingware.com/downloads/wingide-101
+## Wing Personal Python IDE (download version specific to your OS)
+https://wingware.com/downloads/wing-personal
 
 ## PyCharm (Another Python IDE)
 https://www.jetbrains.com/pycharm/
